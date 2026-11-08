@@ -126,8 +126,9 @@
 
 ## Скриншоты дашборда
 
-<img width="1703" height="840" alt="image" src="https://github.com/user-attachments/assets/8db47a64-39cb-4b3b-99f1-bd5134ffc775" />
-<img width="1662" height="663" alt="image" src="https://github.com/user-attachments/assets/ba2d7749-d656-4ecb-b43e-defdb85f8ee0" />
+<img width="1905" height="939" alt="image" src="https://github.com/user-attachments/assets/c90c068b-dbd9-4bf5-a0e0-174aab650697" />
+<img width="1903" height="941" alt="image" src="https://github.com/user-attachments/assets/2aae519a-929c-40ea-9ee1-413c0f588caa" />
+
 
 
 
